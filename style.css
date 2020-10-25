@@ -1,0 +1,15 @@
+.date{
+    color: #68C0DE;
+}
+.about{
+    color: #05526B;
+}
+.post{
+    font-family: 'Roboto Slab', serif;
+}
+.post{
+    border: 15px solid #bccacf;
+    padding: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
